@@ -1,0 +1,211 @@
+.form{
+	text-align: center;
+}
+.form2{
+	text-align: center;
+	width: 26%;
+	height: 437px;
+	position: relative;
+	top:-348px;  
+	margin: 3px 32px;
+	left:61px;
+}
+.form3div{
+	width: 100%;
+	margin: auto;
+	height: 486px;
+	border-radius: 4px;
+	position: relative;
+	top: -418px;
+	left:429px; /*330px; esto es para el anterior diseño*/
+}
+.inptext{
+	margin: 3px 0;  
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	width: 72%;
+	height: 38px;
+	border-radius: 0px 4px 4px 0px;
+	padding: 9px 11px;
+	position: relative;
+	left: 16px;
+	top: -19px;
+}
+.inptext2{
+	margin: 3px 0;  
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	width: 100%;
+	height: 38px;
+	border-radius: 0px 4px 4px 0px;
+	padding: 9px 11px;
+	position: relative;
+	left: 55px;
+	top: -19px;
+}
+.logof2{
+	width: 41%;
+	position: relative;
+	left:-221px;      /*127px; /*461px;diseño anterior*/
+	top: 62px;
+	-webkit-transition:all .9s ease;
+	-webkit-transform:scale(1.40);
+}
+span{
+	color: white;
+	font-size: 34px;
+	font-weight: bold;
+	position: relative;
+	top: -377px;
+	left:108px; /*47px; esto es para disño anterior*/
+}
+
+body{
+	background-image: url("universe.jpg");
+	/*width: 85%; pantalla compl */
+}
+.ulogo{
+	width: 66%;
+	position: relative;
+	left: 55px;
+}
+.boton{
+	position: relative;
+	top: 5px;
+}
+label{
+	position: absolute;
+	font-weight: bold;
+	margin-top: -2px;
+	left: 16px;
+	color: white;
+}
+p{
+	position: relative;
+	font-weight: bold;
+	margin-top: -2px;
+	left: -41px;
+	color: white;
+}
+.bla{
+	position: relative;
+	top: -498px;
+	left: 44px;
+}
+.div{
+	background-color: rgba(112,74,133,0.38);
+	width: 30%;
+	margin: auto;
+	height: 392px;
+	border-radius: 4px;
+	position: relative;
+	top: 82px;
+}
+.div2{
+	background-color: rgba(112,74,133,0.38);
+	width: 95%;
+	margin: auto;
+	height: 566px;
+	border-radius: 4px;
+	position: relative;
+	top: 11px;
+}
+
+form{
+	text-align: center;
+	width: 80%;
+	height: 239px;
+	position: relative;
+	top:41px; /*150px; sin logo*/
+	margin: 3px 32px;
+}
+
+input[type=password]{
+	 margin: 3px 0;  
+	 box-sizing: border-box;
+	 border: 1px solid #ccc;
+	 width: 100%;/*72%; anterior diseño*/
+	 height: 38px;
+	 border-radius: 0px 4px 4px 0px;
+	 padding: 9px 11px;
+	 position: relative;
+	 left: 55px;/*16px; anterior diseño*/
+	 top: -19px;
+}
+
+input[type=submit]{
+	width: 34%;
+	background-color: #943cc6;
+	color: white;
+	padding: 11px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	position: relative;
+	top: -12px;
+	border-radius: 4px;
+	left: -73px;
+}
+
+input[type=submit]:hover{
+	background-color: #cd29e0;
+}
+.imgdiv{
+     box-sizing: border-box;
+     border:1px solid #ccc;
+     width: 15%;
+     height: 38px;
+     border-radius: 4px 0px 0px 4px;
+     padding: 4px 5px;
+     background-color: white;
+     margin-right: 0px;
+     margin-left: 0px;
+     position: relative;
+     left: 15px;
+     top: 22px;
+}
+.imgingreso{
+	width: 100%;
+}
+.boton2{
+	width: 27%;
+	background-color: #943cc6;
+	color: white;
+	padding: 11px 14px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	position: relative;
+	top: -65px;
+	border-radius: 4px;
+	left: 59px;
+}
+
+.boton2:hover{
+	background-color: #cd29e0;
+}
+.boton3{
+	width: 15%;
+	background-color: #943cc6;
+	color: white;
+	padding: 11px 28px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	position: relative;
+	top: -12px;
+	border-radius: 4px;
+	left: -71px;
+}
+
+.boton3:hover{
+	background-color: #cd29e0;
+}
+.star{
+	position: relative;
+	top: -324px;
+	left: -321px;
+	-webkit-transform: translate(500px,700px);
+	-webkit-transition: all 2s ease-in-out;
+}
+
